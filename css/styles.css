@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+}
+div{
+    border: 1px black solid;
+}
+div button{
+    background-color: white;
+}
+.estilo{
+    width: 100%;
+}
+.menu{
+    padding: 10px;
+}
+.estilo2{
+    background-color: yellow;
+    border: 0px;
+    width: 150px;
+    height: 50px;
+    font-size: large;
+    padding: 10px;  
+}
+.terminos1{
+    background-color: yellow;
+    border: 0px;
+    width: 300px;
+    height: 50px;
+    font-size: large;   
+}
+.terminos2{
+    background-color: yellow;
+    border: 0px;
+    width: 300px;
+    height: 50px;
+    font-size: large;
+}
+.terminos3{
+    background-color: yellow;
+    border: 0px;
+    width: 300px;
+    height: 50px;
+    font-size: large;
+}
+.terminos4{
+    background-color: yellow;
+    border: 0px;
+    width: 300px;
+    height: 50px;
+    font-size: large;
+}
+.terminos5{
+    background-color: yellow;
+    border: 0px;
+    width: 300px;
+    height: 50px;
+    font-size: large;
+}
+.terminos6{
+    background-color: yellow;
+    border: 1px black solid;
+    width: 250px;
+    height: 50px;
+    font-size: large;
+}
